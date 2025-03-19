@@ -1,8 +1,8 @@
-📌 Calculadora Científica
-Uma calculadora científica interativa desenvolvida com HTML, CSS e JavaScript. O projeto oferece suporte a operações matemáticas básicas e avançadas, incluindo trigonometria, logaritmos e exponenciação.
+## 📌 Calculadora Científica
+**Uma calculadora científica interativa desenvolvida com HTML, CSS e JavaScript. O projeto oferece suporte a operações matemáticas básicas e avançadas, incluindo trigonometria, logaritmos e exponenciação.**
 
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 📌 Operações matemáticas básicas (+, -, *, /)
 📌 Funções trigonométricas (seno, cosseno, tangente)
 📌 Logaritmo e raiz quadrada
@@ -10,7 +10,7 @@ Uma calculadora científica interativa desenvolvida com HTML, CSS e JavaScript. 
 📌 Botão de limpar e apagar caracteres individualmente
 📌 Interface responsiva e intuitiva
 
-🛠 Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 HTML → Estrutura da página
 CSS → Estilização e layout
 JavaScript → Lógica e interatividade
@@ -19,14 +19,14 @@ JavaScript → Lógica e interatividade
 🔗 **Acesse a calculadora online**: [Clique aqui](https://saraahbr.github.io/CalculadoraHTMLCSSJAVASCRIPT/)
 
 
-📂 Como rodar o projeto
+**📂 Como rodar o projeto**
 1. Clone o repositório:
 git clone https://github.com/SaraahBR/CalculadoraHTMLCSSJAVASCRIPT.git
 
-2. Acesse a pasta do projeto:
+**2. Acesse a pasta do projeto:**
 cd CalculadoraHTMLCSSJAVASCRIPT
 
-3. Abra o arquivo index.html no navegador.
+**3. Abra o arquivo index.html no navegador**.
 
-🤝 Contribuição
+## 🤝 Contribuição
 Sinta-se à vontade para sugerir melhorias! Basta fazer um fork do projeto e enviar um pull request.
