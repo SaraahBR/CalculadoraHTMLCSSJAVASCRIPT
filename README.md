@@ -14,8 +14,10 @@ Uma calculadora científica interativa desenvolvida com HTML, CSS e JavaScript. 
 HTML → Estrutura da página
 CSS → Estilização e layout
 JavaScript → Lógica e interatividade
-📷 Demonstração
-🔗 Acesse a calculadora online
+
+## 📷 Demonstração  
+🔗 **Acesse a calculadora online**: [Clique aqui](https://saraahbr.github.io/CalculadoraHTMLCSSJAVASCRIPT/)
+
 
 📂 Como rodar o projeto
 1. Clone o repositório:
