@@ -19,8 +19,8 @@ JavaScript → Lógica e interatividade
 🔗 **Acesse a calculadora online**: [Clique aqui](https://saraahbr.github.io/CalculadoraHTMLCSSJAVASCRIPT/)
 
 
-**📂 Como rodar o projeto**
-1. Clone o repositório:
+## 📂 Como rodar o projeto**
+**1. Clone o repositório:**
 git clone https://github.com/SaraahBR/CalculadoraHTMLCSSJAVASCRIPT.git
 
 **2. Acesse a pasta do projeto:**
